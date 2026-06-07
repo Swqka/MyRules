@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,flmp3.pro
 DOMAIN-SUFFIX,oiapi.net
 DOMAIN-KEYWORD,aliapp
 
-# 手工定义的 Direct 列表
+#手工定义的Direct列表
 DOMAIN-SUFFIX,icloud-content.com,Direct
 DOMAIN-SUFFIX,api.cloudmobi.net,Direct
 DOMAIN-SUFFIX,hotmail.com,Direct
@@ -121,7 +121,7 @@ DOMAIN-SUFFIX,wikimirror.org,Direct
 DOMAIN-SUFFIX,chillyroom.com,Direct
 DOMAIN-SUFFIX,portal.linkbroad.com,Direct
 
-# top500 direct list update time: 2022-05-23 17:36:34
+#top500 direct list update time: 2022-05-23 17:36:34
 DOMAIN-SUFFIX,20minutos.es,Direct
 DOMAIN-SUFFIX,abcnews.go.com,Direct
 DOMAIN-SUFFIX,aboutads.info,Direct
