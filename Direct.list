@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,theme.25mao.com,Direct
 DOMAIN-SUFFIX,onepage.czl.net,Direct
 DOMAIN-SUFFIX,ctobsnssdk.com,Direct
 DOMAIN-WILDCARD,*.snssdk.com,Direct
+DOMAIN-WILDCARD,*.163.com,Direct
 DOMAIN,umini.shujupie.com,Direct
 DOMAIN-SUFFIX,myinyun.com,Direct
 DOMAIN-SUFFIX,mobai12.top,Direct
@@ -21,7 +22,6 @@ DOMAIN-SUFFIX,flmp3.pro,Direct
 DOMAIN-SUFFIX,oiapi.net,Direct
 DOMAIN-SUFFIX,qqmp3.vip,Direct
 DOMAIN-KEYWORD,aliapp,Direct
-DOMAIN-SUFFIX,163.com,Direct
 
 # 手工定义的 Direct 列表
 #153
