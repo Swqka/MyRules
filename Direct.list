@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,yinghezhinan.com
 DOMAIN-SUFFIX,theme.25mao.com
 DOMAIN-SUFFIX,onepage.czl.net
 DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-WILDCARD,*.snssdk.com
 DOMAIN-SUFFIX,wogg.xxooo.cf
 DOMAIN,umini.shujupie.com
 DOMAIN-SUFFIX,myinyun.com
@@ -15,7 +16,6 @@ DOMAIN-SUFFIX,api.qsy.ink
 DOMAIN-SUFFIX,biqugem.cc
 DOMAIN-SUFFIX,tukeli.net
 DOMAIN-SUFFIX,snapwc.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,flmp3.pro
