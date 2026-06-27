@@ -1,8 +1,8 @@
-DOMAIN,et.tanx.com
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,icanhazip.com
-DOMAIN-SUFFIX,ax.admobile.top
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
+DOMAIN,et.tanx.com,REJECT-DROP
+DOMAIN,graph.facebook.com,REJECT-DROP
+DOMAIN-SUFFIX,icanhazip.com,REJECT-DROP
+DOMAIN-SUFFIX,ax.admobile.top,REJECT-DROP
+DOMAIN-SUFFIX,appsflyersdk.com,REJECT-DROP
+DOMAIN-SUFFIX,google-analytics.com,REJECT-DROP
+DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DROP
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net,REJECT-DROP
