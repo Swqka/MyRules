@@ -22,12 +22,9 @@ DOMAIN-SUFFIX,oiapi.net,Direct
 DOMAIN-SUFFIX,qqmp3.vip,Direct
 DOMAIN-KEYWORD,aliapp,Direct
 
-# 手工定义的 Direct 列表
-#153
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,api.cloudmobi.net,DIRECT
 DOMAIN-SUFFIX,hotmail.com,DIRECT
-#学术网站
 DOMAIN-SUFFIX,researchgate.net,DIRECT
 DOMAIN-SUFFIX,springer.com,DIRECT
 DOMAIN-SUFFIX,blackwell-synergy.com,DIRECT
@@ -37,7 +34,6 @@ DOMAIN-SUFFIX,cabdirect.org,DIRECT
 DOMAIN-SUFFIX,ieee.org,DIRECT
 DOMAIN-SUFFIX,nature.com,DIRECT
 DOMAIN-SUFFIX,osapublishing.org,DIRECT
-#苹果域名及其CDN 直连
 DOMAIN-SUFFIX,a3.mzstatic.com,DIRECT
 DOMAIN-SUFFIX,a1.mzstatic.com,DIRECT
 DOMAIN-SUFFIX,a2.mzstatic.com,DIRECT
@@ -118,21 +114,12 @@ DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN-SUFFIX,www.apple.com.edgekey.net,DIRECT
 DOMAIN-SUFFIX,valid.apple.com,DIRECT
 DOMAIN-SUFFIX,www.apple.com,DIRECT
-# banks
-# Thanks @magnesia
 DOMAIN-SUFFIX,paypalobjects.com,DIRECT
 DOMAIN-SUFFIX,transferwise.com,DIRECT
-# bilibili
 DOMAIN-SUFFIX,b23.tv,DIRECT
-DOMAIN-SUFFIX,bilibili.com,DIRECT
-# Wikipedia Mirror
 DOMAIN-SUFFIX,wikimirror.net,DIRECT
 DOMAIN-SUFFIX,wikimirror.org,DIRECT
-# Bing
-DOMAIN-SUFFIX,cn.bing.com,DIRECT
-# 凉屋游戏
 DOMAIN-SUFFIX,chillyroom.com,DIRECT
-# IHG Internet Access
 DOMAIN-SUFFIX,portal.linkbroad.com,DIRECT
 
 #top500 direct list update time: 2022-05-23 17:36:34
