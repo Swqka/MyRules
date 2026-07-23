@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,app-site-association.cdn-apple.com,Direct
 DOMAIN-SUFFIX,photoeditortechnology.com,Direct
 DOMAIN-SUFFIX,wallpapers-clan.com,Direct
+DOMAIN-SUFFIX,ukey.godimage.mobi,Direct
 DOMAIN-SUFFIX,sealine.youku.com,Direct
 DOMAIN-SUFFIX,medi.dxzzy321.top,Direct
 DOMAIN-SUFFIX,yinghezhinan.com,Direct
@@ -8,7 +9,6 @@ DOMAIN-SUFFIX,theme.25mao.com,Direct
 DOMAIN-SUFFIX,onepage.czl.net,Direct
 DOMAIN-SUFFIX,ctobsnssdk.com,Direct
 DOMAIN-WILDCARD,*.snssdk.com,Direct
-DOMAIN-SUFFIX,ukey.godimage.mobi
 DOMAIN,umini.shujupie.com,Direct
 DOMAIN-SUFFIX,myinyun.com,Direct
 DOMAIN-SUFFIX,mobai12.top,Direct
