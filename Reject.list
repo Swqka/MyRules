@@ -4,5 +4,6 @@ DOMAIN-SUFFIX,icanhazip.com,REJECT-DROP
 DOMAIN-SUFFIX,ax.admobile.top,REJECT-DROP
 DOMAIN-SUFFIX,appsflyersdk.com,REJECT-DROP
 DOMAIN-SUFFIX,google-analytics.com,REJECT-DROP
+DOMAIN-SUFFIX,launches.appsflyer.com,REJECT-DROP
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DROP
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net,REJECT-DROP
