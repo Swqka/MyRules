@@ -108,6 +108,9 @@ DOMAIN-SUFFIX,owngoal.dev,DIRECT
 DOMAIN-SUFFIX,procurs.us,DIRECT
 DOMAIN-SUFFIX,amgios.com,DIRECT
 DOMAIN-SUFFIX,deno.io,DIRECT
+#Sileo官方服务及推荐页API
+DOMAIN-SUFFIX,getsileo.app,DIRECT
+DOMAIN-SUFFIX,tale.me,DIRECT
 
 #top500 direct list update time: 2022-05-23 17:36:34
 DOMAIN-SUFFIX,20minutos.es,Direct
