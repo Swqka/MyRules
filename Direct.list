@@ -78,6 +78,11 @@ DOMAIN-SUFFIX,libvio.io,Direct
 DOMAIN-SUFFIX,img.51shazhu.com,Direct
 #人人
 DOMAIN-SUFFIX,rrdynb.com,Direct
+#七味
+DOMAIN-SUFFIX,qwmp4.com,Direct
+DOMAIN-SUFFIX,qwfilm.com,Direct
+DOMAIN-SUFFIX,qwmkv.com,Direct
+DOMAIN-SUFFIX,qwfun.com,Direct
 
 #top500 direct list update time: 2022-05-23 17:36:34
 DOMAIN-SUFFIX,20minutos.es,Direct
