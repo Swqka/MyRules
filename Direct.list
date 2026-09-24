@@ -13,7 +13,6 @@ DOMAIN-WILDCARD,*.snssdk.com,Direct
 DOMAIN-KEYWORD,lxmusicapi,Direct
 DOMAIN,umini.shujupie.com,Direct
 DOMAIN-SUFFIX,myinyun.com,Direct
-DOMAIN-SUFFIX,mobai12.top,Direct
 DOMAIN-SUFFIX,api.qsy.ink,Direct
 DOMAIN-SUFFIX,biqugem.cc,Direct
 DOMAIN-SUFFIX,tukeli.net,Direct
@@ -24,6 +23,7 @@ DOMAIN-SUFFIX,dpdns.org,Direct
 DOMAIN-SUFFIX,flmp3.pro,Direct
 DOMAIN-SUFFIX,oiapi.net,Direct
 DOMAIN-SUFFIX,qqmp3.vip,Direct
+DOMAIN-KEYWORD,mobai12,Direct
 DOMAIN-KEYWORD,aliapp,Direct
 DOMAIN-KEYWORD,tmdb,Direct
 
