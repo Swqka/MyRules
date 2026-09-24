@@ -55,8 +55,12 @@ DOMAIN-KEYWORD,2xiaopan,DIRECT
 DOMAIN-KEYWORD,wexwp,DIRECT
 #虎斑
 DOMAIN,xhban.xyz,DIRECT
+DOMAIN-SUFFIX,wsrv.nl,Direct
+DOMAIN-SUFFIX,images.weserv.nl,Direct
+DOMAIN-SUFFIX,themoviedb.org,Direct
 IP-CIDR,154.222.27.33/32,no-resolve
 IP-CIDR,103.45.162.207/32,no-resolve
+IP-CIDR,64.90.4.187,no-resolve
 #小斑
 DOMAIN,xsayang.fun,DIRECT
 IP-CIDR,154.201.83.50/32,no-resolve
