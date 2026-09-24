@@ -83,6 +83,8 @@ DOMAIN-SUFFIX,qwmp4.com,Direct
 DOMAIN-SUFFIX,qwfilm.com,Direct
 DOMAIN-SUFFIX,qwmkv.com,Direct
 DOMAIN-SUFFIX,qwfun.com,Direct
+#片库
+DOMAIN-SUFFIX,pianku.online,Direct
 
 #top500 direct list update time: 2022-05-23 17:36:34
 DOMAIN-SUFFIX,20minutos.es,Direct
