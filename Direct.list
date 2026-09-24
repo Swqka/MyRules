@@ -10,14 +10,14 @@ DOMAIN-SUFFIX,ap1.mobai12.top
 DOMAIN-SUFFIX,theme.25mao.com
 DOMAIN-SUFFIX,onepage.czl.net
 DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN-WILDCARD,*.snssdk.com
-DOMAIN-KEYWORD,lxmusicapi
-DOMAIN,umini.shujupie.com
+DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,myinyun.com
 DOMAIN-SUFFIX,api.qsy.ink
+DOMAIN-KEYWORD,lxmusicapi
 DOMAIN-SUFFIX,biqugem.cc
 DOMAIN-SUFFIX,tukeli.net
 DOMAIN-SUFFIX,snapwc.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,wuyti.top
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,dpdns.org
