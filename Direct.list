@@ -1,3 +1,4 @@
+#自定义
 DOMAIN-SUFFIX,app-site-association.cdn-apple.com,Direct
 DOMAIN-SUFFIX,photoeditortechnology.com,Direct
 DOMAIN-SUFFIX,wallpapers-clan.com,Direct
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,qqmp3.vip,Direct
 DOMAIN-KEYWORD,aliapp,Direct
 DOMAIN-KEYWORD,tmdb,Direct
 
+#观影网盘
 #玩偶哥哥
 DOMAIN-KEYWORD,wogg,DIRECT
 #木偶
@@ -62,6 +64,9 @@ IP-CIDR,154.201.83.50/32,no-resolve
 DOMAIN,woog.nxog.eu.org,DIRECT
 #闪电
 DOMAIN,sd.sduc.site,DIRECT
+#花卷
+DOMAIN-SUFFIX,huanjuanwp.shop,Direct
+DOMAIN-SUFFIX,hjzhencai.top,Direct
 
 #top500 direct list update time: 2022-05-23 17:36:34
 DOMAIN-SUFFIX,20minutos.es,Direct
